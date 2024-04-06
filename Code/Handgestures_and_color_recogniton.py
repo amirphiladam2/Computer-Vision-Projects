@@ -1,5 +1,5 @@
-//AUTHOR:AMIR PHILIP ADAM
-//ADDED ON:31.03.2024 10:00PM*
+#AUTHOR:AMIR PHILIP ADAM
+#ADDED ON:31.03.2024 10:00PM*
 import cv2
 import numpy as np
 from cvzone.HandTrackingModule import HandDetector
